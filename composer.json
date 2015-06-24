@@ -20,7 +20,7 @@
     },
     "require": {
         "php": ">=5.3"
-    }
+    },
     "suggest": {
         "pear/log": "or any pear/log compliant package"
     }
