@@ -1,0 +1,6 @@
+nodeid     = simpleD
+simpleD    = simpleD
+modulePath = /modules/simpleD/
+title      = title - simpleD
+name       = name - simpleD
+colours    = red|blue|black|white - simpleD

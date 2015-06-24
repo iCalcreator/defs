@@ -1,0 +1,28 @@
+{
+    "name": "kigkonsult/defs",
+    "type": "library",
+    "description": "defs is a PHP definition handle class package",
+    "keywords": [ "management", "configuration", "definition", "locale" ],
+    "time" : "2015-06-22",
+    "license": "CC-BY-NC-4.0",
+    "homepage": "http://kigkonsult.se/defs/index.php",
+    "support": {
+       "issues": "http://kigkonsult.se/contact/index.php"
+    },
+    "authors": [
+        {
+            "name": "Kjell-Inge Gustafsson",
+            "email": "ical@kigkonsult.se"
+        }
+    ],
+    "autoload": {
+         "files": ["defs.php"]
+    },
+    "require": {
+        "php": ">=5.3"
+    }
+    {
+    "suggest": {
+        "pear/log": "or any pear/log compliant package"
+    }
+}

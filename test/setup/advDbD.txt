@@ -1,0 +1,20 @@
+; node / Database access config for node advDbD
+;
+; node args
+nodeid     = advDbD
+ttl        = 1000
+; database args
+source     = mysqli
+host       = localhost
+username   = defs
+passwd     = defs
+dbname     = defs
+; map to database specific table
+;            table name
+table      = modules
+;            column names
+major      = name
+key1       = primary
+key2       = second
+key3       = ix
+value      = content

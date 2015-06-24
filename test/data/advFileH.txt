@@ -1,0 +1,14 @@
+;
+; a txt sample date source file
+;
+; the ' - advFileH' value suffix is for testing only
+;
+; node id
+nodeid     = advFileH
+; node data
+advFileH   = advFileH
+modulePath = "modules/advFileH/"
+; locale
+title      = title - advFileH
+name       = name - advFileH
+colours    = red|blue|black|white - advFileH

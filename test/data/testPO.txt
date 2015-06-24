@@ -1,0 +1,90 @@
+#
+# PO testing file
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-06-08 12:58+0200\n"
+"PO-Revision-Date: 2006-06-08 17:26+0200\n"
+"Last-Translator: \n"
+"Language-Team:  <lang@uage.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: qwerty 1.2.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#  translator-comments
+#. extracted-comments
+#: reference…
+#, flag…
+#| msgid previous-untranslated-string
+msgid "untranslated-string"
+msgstr "translated-string"
+
+#  translator-comments
+#. extracted-comments
+#: reference…
+#, flag…
+#| msgid previous-untranslated-string
+msgid "untranslated-string 2"
+msgstr "very very loooooooooooooooooong "
+"three row "
+"translated-string 2"
+
+# a comment
+#: another comment
+msgid "title"
+msgstr "title PO test"
+
+# a comment
+#: another comment
+msgid "You have selected %d file for deletion"
+msgid_plural "You have selected %d files for deletion"
+msgstr[0] ""
+msgstr[1] ""
+
+# a comment
+#: another comment
+#: testing plural
+msgid "found %d fatal error"
+msgid_plural "found %d fatal errors"
+msgstr[0] "s'ha trobat %d error fatal"
+msgstr[1] "s'han trobat %d errors fatals"
+
+# a comment
+#: another comment
+msgid "One file removed"
+msgid_plural "%d files removed"
+msgstr[0] "%d slika je uklonjena"
+msgstr[1] "%d datoteke uklonjenih"
+msgstr[2] "%d slika uklonjenih"
+
+# a comment
+#: another comment
+msgid "X geese"
+msgstr[0] "%d goose"
+msgstr[1] "%d geese"
+
+# a comment
+#: another comment
+msgid "sentence about geese at the lake..."
+msgstr[0] "There is one goose at the lake "
+"eating all sharks away..."
+msgstr[1] "There are %d geese at the lake "
+"eating all sharks away..."
+
+# a test with an empty msgstr
+# a comment
+#: another comment
+msgid "Search for a match to any of the search strings"
+msgstr ""
+
+# a Greek test
+# a comment
+#: another comment
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 δευτερόλεπτο"
+msgstr[1] "%1 δευτερόλεπτα"

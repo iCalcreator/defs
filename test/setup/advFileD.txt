@@ -1,0 +1,9 @@
+;
+; node / file access config for node advFileD
+;
+; node args
+nodeid     = advFileD
+ttl        = 1000
+; file source args
+source     = file
+path       = data/advFileD.txt

@@ -1,0 +1,5 @@
+"nodeid","advFileA"
+"ttl","1000"
+"others","common,extra"
+"source","file"
+"path","data/advFileA.csv"

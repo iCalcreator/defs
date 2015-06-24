@@ -1,0 +1,17 @@
+;
+; a txt sample data source file
+;
+; the ' - advFileD' value suffix is for testing only
+;
+nodeid     = advFileD
+;
+; settings
+;
+advFileD   = advFileD
+modulePath = modules/advFileD/
+;
+; locale
+;
+title      = title - advFileD
+name       = name - advFileD
+colours    = red|blue|black|white - advFileD
